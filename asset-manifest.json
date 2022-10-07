@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-three-fiber-demo/static/css/main.073c9b0a.css",
+    "main.js": "/react-three-fiber-demo/static/js/main.ace5e250.js",
+    "static/js/787.53b44733.chunk.js": "/react-three-fiber-demo/static/js/787.53b44733.chunk.js",
+    "index.html": "/react-three-fiber-demo/index.html",
+    "main.073c9b0a.css.map": "/react-three-fiber-demo/static/css/main.073c9b0a.css.map",
+    "main.ace5e250.js.map": "/react-three-fiber-demo/static/js/main.ace5e250.js.map",
+    "787.53b44733.chunk.js.map": "/react-three-fiber-demo/static/js/787.53b44733.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ace5e250.js"
+  ]
+}
